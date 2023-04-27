@@ -1,4 +1,4 @@
-# My PortFoliio
+# My PortFolio
 
 ## *Built with*
   - a
